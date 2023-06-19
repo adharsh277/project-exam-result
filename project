@@ -1,0 +1,11 @@
+
+c=int(input("enter the registration number: "))
+print("your registration number is : ",c)
+d=str(input("enter your father name: "))
+print("your father name is : ",d)
+e=str(input("enter your date of birth: "))
+print("your date of birth mentioned in the above is : ",e)
+if(c<789):
+  print("your are Failed \n Dont go Commit suicide remember the the word of Naruto UZumaki\n if you dont like the destiny  instead have the courage to change it in the way you want to be")
+else:
+  print("you are eligible for the jee advance\n All  the best for the jee Advance")
